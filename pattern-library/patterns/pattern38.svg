@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4841_62)">
+<path d="M-4.16699 0H47.9163H99.9997M99.9997 0V206.771M99.9997 0H152.513H205.027" stroke="#29BDFC" stroke-opacity="0.25" stroke-width="2"/>
+<path d="M0 103.125H100H200" stroke="#29BDFC" stroke-opacity="0.25" stroke-width="2"/>
+<path d="M0 1L4.41485e-06 102L8.8297e-06 203" stroke="#29BDFC" stroke-opacity="0.25" stroke-width="2"/>
+<path d="M200 3.13025L200 103.13L200 203.13" stroke="#29BDFC" stroke-opacity="0.25" stroke-width="2"/>
+<path d="M-13.542 200H99.9997H213.541" stroke="#29BDFC" stroke-opacity="0.25" stroke-width="2"/>
+<rect x="97" y="-3" width="6" height="6" fill="#29BDFC"/>
+<rect x="97" y="197" width="6" height="6" fill="#29BDFC"/>
+<rect x="97" y="100" width="6" height="6" fill="#29BDFC"/>
+<rect x="-3" y="100" width="6" height="6" fill="#29BDFC"/>
+<rect x="-3" y="-3" width="6" height="6" fill="#29BDFC"/>
+<rect x="-3" y="197" width="6" height="6" fill="#29BDFC"/>
+<rect x="197" y="100" width="6" height="6" fill="#29BDFC"/>
+<rect x="197" y="-3" width="6" height="6" fill="#29BDFC"/>
+<rect x="197" y="197" width="6.25" height="6.25" fill="#29BDFC"/>
+</g>
+<defs>
+<clipPath id="clip0_4841_62">
+<rect width="200" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>

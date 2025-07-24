@@ -1,0 +1,30 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" width="97" height="1" fill="white" fill-opacity="0.3"/>
+<rect x="2" width="5" height="1" fill="#29BDFC"/>
+<rect x="94" width="5" height="1" fill="#29BDFC"/>
+<rect x="1" y="2" width="5" height="1" transform="rotate(90 1 2)" fill="#29BDFC"/>
+<rect x="1" y="94" width="5" height="1" transform="rotate(90 1 94)" fill="#29BDFC"/>
+<rect x="1" y="2" width="97" height="0.999996" transform="rotate(90 1 2)" fill="white" fill-opacity="0.3"/>
+<rect x="6.81836" y="6.81836" width="87.5" height="87.5" fill="white" fill-opacity="0.05"/>
+<rect x="2" y="100" width="97" height="1" fill="white" fill-opacity="0.3"/>
+<rect x="2" y="100" width="5" height="1" fill="#29BDFC"/>
+<rect x="94" y="100" width="5" height="1" fill="#29BDFC"/>
+<rect x="1" y="102" width="5" height="1" transform="rotate(90 1 102)" fill="#29BDFC"/>
+<rect x="1" y="194" width="5" height="1" transform="rotate(90 1 194)" fill="#29BDFC"/>
+<rect x="1" y="102" width="97" height="0.999996" transform="rotate(90 1 102)" fill="white" fill-opacity="0.3"/>
+<rect x="6.81836" y="106.818" width="87.5" height="87.5" fill="white" fill-opacity="0.05"/>
+<rect x="102" width="97" height="1" fill="white" fill-opacity="0.3"/>
+<rect x="102" width="5" height="1" fill="#29BDFC"/>
+<rect x="194" width="5" height="1" fill="#29BDFC"/>
+<rect x="101" y="2" width="5" height="1" transform="rotate(90 101 2)" fill="#29BDFC"/>
+<rect x="101" y="94" width="5" height="1" transform="rotate(90 101 94)" fill="#29BDFC"/>
+<rect x="101" y="2" width="97" height="0.999996" transform="rotate(90 101 2)" fill="white" fill-opacity="0.3"/>
+<rect x="106.818" y="6.81836" width="87.5" height="87.5" fill="white" fill-opacity="0.05"/>
+<rect x="102" y="100" width="97" height="1" fill="white" fill-opacity="0.3"/>
+<rect x="102" y="100" width="5" height="1" fill="#29BDFC"/>
+<rect x="194" y="100" width="5" height="1" fill="#29BDFC"/>
+<rect x="101" y="102" width="5" height="1" transform="rotate(90 101 102)" fill="#29BDFC"/>
+<rect x="101" y="194" width="5" height="1" transform="rotate(90 101 194)" fill="#29BDFC"/>
+<rect x="101" y="102" width="97" height="0.999996" transform="rotate(90 101 102)" fill="white" fill-opacity="0.3"/>
+<rect x="106.818" y="106.818" width="87.5" height="87.5" fill="white" fill-opacity="0.05"/>
+</svg>
